@@ -4,16 +4,14 @@
 
 ### Self-hosted personal AI and life management platform
 
-<a href="https://github.com/tahakubilay/Nexus">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=820&lines=One+personal+hub.+Many+workflows.;AI+%2B+Automation+%2B+Self-hosting;Your+services%2C+your+data%2C+your+control." alt="Animated project overview" />
-</a>
+<img src="./assets/hero.svg" alt="Animated project header" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Taha%20Kubilay-181717?style=for-the-badge&logo=github)](https://github.com/tahakubilay)
 [![Repository](https://img.shields.io/badge/Repository-Nexus-0A66C2?style=for-the-badge&logo=github)](https://github.com/tahakubilay/Nexus)
-[![Self Hosted](https://img.shields.io/badge/Self--Hosted-Yes-16A34A?style=for-the-badge&logo=homeassistant)](#-overview)
-[![Status](https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge)](#-project-status)
+![Self Hosted](https://img.shields.io/badge/Self--Hosted-Yes-16A34A?style=for-the-badge&logo=homeassistant)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Build-7C3AED?style=for-the-badge)
 
 <br/>
 
