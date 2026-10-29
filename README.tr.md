@@ -4,7 +4,7 @@
 
 ### Self-hosted kişisel AI ve yaşam yönetim platformu
 
-<img src="./assets/hero.svg" alt="Animasyonlu proje başlığı" />
+<img src="./assets/hero.svg" alt="Nexus proje görsel kimliği" />
 
 <p><a href="./README.md">English</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.tr.md"><strong>Türkçe</strong></a></p>
 
